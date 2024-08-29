@@ -1,0 +1,3 @@
+Preguntar si agregar correción ortográfica
+Preguntar si agregar busqueda por sinónimos
+Preguntar si agregar URL de la página web
